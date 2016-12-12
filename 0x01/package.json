@@ -1,0 +1,11 @@
+{
+  "name": "zxc",
+  "version": "1.0.0",
+  "description": "your name ",
+  "main": "index.js",
+  "author": "zxc",
+  "license": "zxc",
+  "scripts": {
+  "start": "node ."
+}
+}
