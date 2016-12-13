@@ -1,0 +1,22 @@
+{
+  "name": "zxc",
+  "version": "1.0.0",
+  "description": "your name ",
+  "main": "index.js",
+  "author": "zxc",
+  "license": "zxc",
+  "scripts": {
+    "start": "gulp"
+  },
+  "babel": {
+    "presets": [
+      "latest"
+    ]
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2"
+  }
+}
